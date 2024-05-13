@@ -31,6 +31,7 @@ public class EdgeTest {
         String url = driver.getCurrentUrl();
         System.out.println("url: " + url);
 
+        //quit
         driver.quit();
     }
 }
